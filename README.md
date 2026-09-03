@@ -1,1 +1,18 @@
-# PPWaula0309
+# Tags usadas
+- \<title>: Define o título da página que é exibido na aba do navegador.
+- \<style>: Contém os estilos CSS que definem a aparência e o layout da página.
+- \<header>: Representa o cabeçalho do documento, geralmente usado para títulos, logos ou navegação principal.
+- \<h1>: Define o título principal de maior importância no documento.
+- \<main>: Envolve o conteúdo principal e exclusivo da página.
+- \<p>: Define um parágrafo de texto.
+- \<section>: Agrupa um bloco de conteúdo relacionado ou uma seção temática da página.
+- \<ul>: Cria uma lista não ordenada (com marcadores de pontos).
+- \<li>: Representa um item dentro de uma lista (\<ul>).
+- \<strong>: Destaca um trecho de texto com forte importância (geralmente exibido em negrito).
+- \<figure>: Agrupa um conteúdo ilustrativo, como imagens, diagramas ou vídeos.
+- \<img>: Insere uma imagem na página.
+- \<figcaption>: Define uma legenda explicativa para o conteúdo da tag \<figure>.
+- \<a>: Cria um hiperlink para redirecionar para outra página ou recurso externo.
+- \<button>: Cria um botão clicável.
+- \<footer>: Representa o rodapé da página ou de uma seção, contendo informações de direitos autorais ou links de contato.
+- \<em>: Aplica ênfase a um texto (geralmente exibido em itálico).
